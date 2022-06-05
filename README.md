@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradonsiegle&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bradonsiegle&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/bradonsiegle)](https://stars.medv.io/bradonsiegle)
 
