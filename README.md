@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm a Full Stack developer from <b>Calgary, AB</b> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png" width="15"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bradon Siegle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradon-siegle-828078207/)](https://www.linkedin.com/in/bradon-siegle-828078207/)
+[![Linkedin Badge](https://img.shields.io/badge/-BradonSiegle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradon-siegle-828078207/)](https://www.linkedin.com/in/bradon-siegle-828078207/)
 
 <!--
 **bradonsiegle/bradonsiegle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
