@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Full Stack developer from :canada:
+I'm a Full Stack developer from Calgary https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png
 
 <!--
 **bradonsiegle/bradonsiegle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
