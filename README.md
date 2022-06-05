@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-I'm a Full Stack developer from <b>Calgary, AB</b> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png" width="17"/>
+I'm a Full Stack developer from <b>Calgary, AB</b><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png" width="17"/>
 
 <!--
 **bradonsiegle/bradonsiegle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
