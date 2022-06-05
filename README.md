@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![SASS](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=sass)
 
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradonsiegle&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradonsiegle&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bradonsiegle&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
