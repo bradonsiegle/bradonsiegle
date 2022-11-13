@@ -3,11 +3,6 @@
 <p> New Graduate, BSc Computer Science </p>
 <p> I am a life-long lover of all things tech! I am proficient with both front-end and back-end stacks, with a focus on modern web development technologies and DevOps.
 
-Currently...
- - Mastering React and Node
- - Converting to TypeScript
- - Picking up SpringBoot
-
 [![Linkedin Badge](https://img.shields.io/badge/-BradonSiegle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradon-siegle-828078207/)](https://www.linkedin.com/in/bradon-siegle-828078207/)
 
 <!--
