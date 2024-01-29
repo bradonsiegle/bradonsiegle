@@ -1,8 +1,7 @@
 <h1>Hi, I'm Bradon Siegle.</h1>
 <p>Welcome to my GitHub! </br> I'm a Full-Stack developer from <b>Calgary, AB</b> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png" width="15"/>
-<p> New Graduate, BSc Computer Science </p>
-<p> I am a life-long lover of all things tech! I am proficient with both front-end and back-end stacks, with a focus on modern web development technologies and DevOps.
-<p> Please check out my portfolio of projects I have pinned below! </p>
+<p> BSc Computer Science </p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-BradonSiegle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradon-siegle-828078207/)](https://www.linkedin.com/in/bradon-siegle-828078207/)
 
