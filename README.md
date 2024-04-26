@@ -1,23 +1,9 @@
 <h1>Hi, I'm Bradon Siegle.</h1>
-<p>Welcome to my GitHub! </br> I'm a Full-Stack developer from <b>Calgary, AB</b> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png" width="15"/>
+<p>Welcome to my GitHub!</p>
 <p> BSc Computer Science </p>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-BradonSiegle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradon-siegle-828078207/)](https://www.linkedin.com/in/bradon-siegle-828078207/)
 
 <!--
 **bradonsiegle/bradonsiegle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -35,14 +21,4 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradonsiegle&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradonsiegle&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
