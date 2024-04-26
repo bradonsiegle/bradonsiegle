@@ -1,8 +1,10 @@
 <h1>Hi, I'm Bradon Siegle.</h1>
 <p>Welcome to my GitHub!</p>
+
 <!--
 **bradonsiegle/bradonsiegle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
